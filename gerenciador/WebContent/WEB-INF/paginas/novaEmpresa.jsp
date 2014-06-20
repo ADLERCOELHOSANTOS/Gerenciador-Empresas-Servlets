@@ -11,6 +11,6 @@
 	<br/>
 	<a href="/gerenciador">Voltar para página inicial</a>
 	<br/>
-	<a href="/gerenciador/FazTudo?tarefa=BuscaEmpresa">Buscar Empresas</a>
+	<a href="/gerenciador/executa?tarefa=BuscaEmpresa">Buscar Empresas</a>
 </body>
 </html>
